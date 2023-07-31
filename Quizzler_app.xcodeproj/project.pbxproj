@@ -12,6 +12,7 @@
 		05DB48922A784140009EE3FD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DB48912A784140009EE3FD /* ViewController.swift */; };
 		05DB48972A784141009EE3FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05DB48962A784141009EE3FD /* Assets.xcassets */; };
 		05DB489A2A784141009EE3FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05DB48982A784141009EE3FD /* LaunchScreen.storyboard */; };
+		05DB48A22A7844CA009EE3FD /* Extentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05DB48A12A7844CA009EE3FD /* Extentions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		05DB48962A784141009EE3FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		05DB48992A784141009EE3FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		05DB489B2A784141009EE3FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05DB48A12A7844CA009EE3FD /* Extentions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extentions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		05DB488C2A784140009EE3FD /* Quizzler_app */ = {
 			isa = PBXGroup;
 			children = (
+				05DB48A12A7844CA009EE3FD /* Extentions.swift */,
 				05DB488D2A784140009EE3FD /* AppDelegate.swift */,
 				05DB488F2A784140009EE3FD /* SceneDelegate.swift */,
 				05DB48912A784140009EE3FD /* ViewController.swift */,
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				05DB48A22A7844CA009EE3FD /* Extentions.swift in Sources */,
 				05DB48922A784140009EE3FD /* ViewController.swift in Sources */,
 				05DB488E2A784140009EE3FD /* AppDelegate.swift in Sources */,
 				05DB48902A784140009EE3FD /* SceneDelegate.swift in Sources */,
